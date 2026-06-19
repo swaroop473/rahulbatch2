@@ -1,5 +1,5 @@
 variable "participant_name" {
-  description = "labsp"
+  description = "rahul"
   type        = string
 }
 

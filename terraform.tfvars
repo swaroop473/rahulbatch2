@@ -1,4 +1,4 @@
-participant_name = "labsp"
+participant_name = "rahul"
 location         = "eastus"
 
 # ========== COST OPTIMIZATION SETTINGS ==========
